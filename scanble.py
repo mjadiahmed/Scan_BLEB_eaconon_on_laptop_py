@@ -38,7 +38,7 @@ async def run():
 # Run the event loop
 asyncio.run(run())
 
-
+# SCAN BLE BEACONS while filtering by NAME
 # import asyncio
 # from bleak import BleakScanner
 
